@@ -6,7 +6,6 @@ eventListeners();
 //Listeners
 function eventListeners() {
     document.addEventListener('DOMContentLoaded', startApp);
-
 }
 
 //Functions
